@@ -1,0 +1,15 @@
+# Responsable global del repositorio
+* @jotikeng1
+
+# Código fuente
+/src/ @jotikeng1
+/scripts/ @jotikeng1
+
+# Tests
+/tests/ @jotikeng1
+
+# Documentación
+/docs/ @jotikeng1
+
+# Workflows y configuración de GitHub
+/.github/ @jotikeng1
